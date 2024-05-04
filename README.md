@@ -64,7 +64,7 @@ Ingestion: Azure Data Lake Gen2
 
 Transformation: Azure DataBricks
 
-Storage: Azure Synapse Analytics
+Loading: Azure Synapse Analytics
 
 Authentication and Secrets Management: Azure Active Directory and Azure Key Vault
 
