@@ -6,6 +6,10 @@ TThis END to END project demonstrates on premise Adventure Work sales local data
 # OBJECTIVE:
 To seamlessly migrate our existing local server infrastructure to the cloud while ensuring that any updates made to the local server are reflected in our Power BI Reports connected to the cloud, thus ensuring data consistency, accessibility, and scalability across our organization's digital ecosystem.
 
+# ARCHITECTURE
+
+![Architecture](https://github.com/kantaharshitha/Azure_End_to_End_project/assets/55930087/db989f7f-3d2e-4bfb-9bdb-c19533adc629)
+
 # PREREQUISITES:
  Download Microsoft SQL server and AdventureWork database
  
