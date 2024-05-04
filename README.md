@@ -21,7 +21,7 @@ To seamlessly migrate our existing local server infrastructure to the cloud whil
 
 1.DATA EXTRACTION: Here We connect SQl server to azure data factory(using self hosted Integration RunTime) and create a pipeline to extract data and store in bronze folder in DataLakeGen2 Storage.
 
-![Extraction_pipeline](Extraction_pipeline.PNG)
+![Extraction_pipeline](https://github.com/kantaharshitha/Azure_End_to_End_project/assets/55930087/41ddd8a7-5fbe-49a9-92f8-c0027d57e53a)
 
 2.DATA TRANSFORMATION: Here we have done Transformations in Azure DataBricks and created 3 notebooks to store data in medallion data lake architecture (bronze, silver, gold).
 
